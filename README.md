@@ -1,5 +1,5 @@
 # QA-or-the-Highway-2019
-This repo contains supporting material for the "Automating Your Automation: The Care and Feeding of Jenkins" session presented at the QA or the Highway 2019 conference on February 19, 2019 in Columbus, Ohio.
+This repo contains supporting material for the "Automating Your Automation: The Care and Feeding of Jenkins" session presented by Jeff McKenzie at the QA or the Highway 2019 conference on February 19, 2019 in Columbus, Ohio.
 
 ## QA or the Highway
 QA or the Highway is a one-day, affordable, regional, professional conference featuring real-world experience and thought leadership in the QA and testing industry, held every year in Columbus, Ohio.
@@ -9,3 +9,6 @@ If you're like 70% of continuous integration and delivery users out there, you'r
 
 ### JenkinsAutomatingYourAutomation_JeffMcKenzie_QA_or_the_Highway_2019_2019-02-19.pptx
 Slide deck from the Automating Your Automation session.
+
+### Bio
+Jeff McKenzie has worked in software development for nearly twenty years, in both freelance and full-time capacities, as a developer and team leader. He enjoys helping others solve problems through technology, whether it's the small business getting on the web for the first time, or a Fortune 500 company expanding its enterprise. Although he started his career using BASIC on an Atari 800, he took a big detour, getting Biology and English degrees before rediscovering programming, with a new thing called the World Wide Web. He is currently an Architect at Insight Digital Innovation (formerly Cardinal Solutions) in Columbus Ohio.
